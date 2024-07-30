@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App
 {
-   // Amrit Paudel
+   // Amrit Paudel 
     private final String message = "This is Jenkins demo";
 
     public App() {}
